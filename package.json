@@ -3,7 +3,7 @@
   "publishConfig": {
   "access": "public"
 },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A React Native library for integrating Unity Ads to monetize your mobile applications.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
