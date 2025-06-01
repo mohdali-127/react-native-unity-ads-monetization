@@ -106,3 +106,4 @@ This project is open source and available under the MIT License. This means you 
 
 Feel free to contribute to the project on GitHub and help make it even better!
 "# react-native-unity-ads-monetization" 
+"# react-native-unity-ads-monetization" 
