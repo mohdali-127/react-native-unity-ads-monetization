@@ -1,7 +1,7 @@
 
 # React Native Unity Ads Monetization Module
 
-This module enables React Native applications to integrate Unity Ads, providing a simple way to include ads into your mobile app for monetization. Based on Unity Ads SDK version 4.12.3, this module is designed to be easy to use, allowing developers to show ads from Unity with minimal setup.
+This module enables React Native applications to integrate Unity Ads, providing a simple way to include ads into your mobile app for monetization. Based on Unity Ads SDK version 4.18.0, this module is designed to be easy to use, allowing developers to show ads from Unity with minimal setup.
 
 ## Features
 
